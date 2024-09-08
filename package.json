@@ -3,8 +3,8 @@
   "displayName": "Moontallica Theme",
   "description": "A dark theme based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
-  "publisher": "rayanasales",
-  "version": "1.1.7",
+  "publisher": "Rayana Sales",
+  "version": "1.1.8",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -28,7 +28,7 @@
     "Retrowave",
     "Night City"
   ],
-  "icon": "icons/moon.png",
+  "icon": "assets/images/moon.png",
   "galleryBanner": {
     "color": "#030d22",
     "theme": "dark"

@@ -11,8 +11,8 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/rayanasales/moontallica-theme-vs-code ~/.vscode/extensions/moontallica-theme-vs-code
-    $ cd ~/.vscode/extensions/moontallica-theme-vs-code
+    $ git clone https://github.com/rayanasales/vscode-moontallica-theme ~/.vscode/extensions/vscode-moontallica-theme
+    $ cd ~/.vscode/extensions/vscode-moontallica-theme
     $ npm install
     $ npm run build
 

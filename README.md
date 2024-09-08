@@ -21,9 +21,9 @@
   <a href="#team">Team</a>  
 </p>
 
-<!-- <p align="center">
-  <img alt="Omni 2077 Dark Theme screenshot for Visual Studio Code" src="https://i.imgur.com/TGiaVqb.png">
-</p> -->
+<p align="center">
+  <img alt="Moontallica Theme Dark Theme screenshot for Visual Studio Code" src="./assets/images/theme-preview.png">
+</p>
 
 ## Install
 
