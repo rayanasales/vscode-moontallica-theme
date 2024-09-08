@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>A sleek, dark theme blending the best of Omni Owl and 2077 vibes, with a personal twist on the colors.</strong>
+  <strong>A sleek, dark theme blending the best of Omni Owl, 2077 vibes, and Dracula, with a personal twist on the colors.</strong>
 </p>
 
 <p align="center">
@@ -39,6 +39,7 @@ This theme draws heavy inspiration from:
 
 - [vscode-2077-theme by Endormi](https://github.com/endormi/vscode-2077-theme)
 - [omni-owl by guilhermerodz](https://github.com/guilhermerodz/omni-owl)
+- [dracula-theme by Dracula](https://github.com/dracula/visual-studio-code)
 
 ## Team
 
@@ -57,6 +58,10 @@ Big shoutout to the legends who created the themes used as a base:
 | [![Guilhermerodz](https://github.com/guilhermerodz.png?size=100)](https://github.com/guilhermerodz) |
 | --------------------------------------------------------------------------------------------------- |
 | [Guilhermerodz](https://github.com/guilhermerodz)                                                   |
+
+| [![Dracula](https://github.com/dracula.png?size=100)](https://github.com/dracula) |
+| --------------------------------------------------------------------------------- |
+| [Dracula](https://github.com/dracula)                                             |
 
 ## Icon
 
