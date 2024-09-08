@@ -1,0 +1,60 @@
+{
+  "name": "moontallica-theme",
+  "displayName": "Moontallica Theme",
+  "description": "A dark theme based on Omni Owl and 2077 themes.",
+  "author": "Rayana Sales <rayanaasales@gmail.com>",
+  "publisher": "rayanasales",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Moontallica",
+    "Italic",
+    "Vivid Colors",
+    "Color Scheme",
+    "Cyberpunk",
+    "Futuristic",
+    "Neon",
+    "Electric",
+    "Sci-Fi",
+    "High-Tech",
+    "Synthwave",
+    "Retrowave",
+    "Night City"
+  ],
+  "icon": "icons/moon.png",
+  "galleryBanner": {
+    "color": "#030d22",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayanasales/moontallica-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/rayanasales/moontallica-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moontallica",
+        "path": "./themes/moontallica.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "license": "MIT"
+}
