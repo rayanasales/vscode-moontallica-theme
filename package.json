@@ -4,7 +4,7 @@
   "description": "A dark theme based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
   "publisher": "rayanasales",
-  "version": "1.1.11",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rayanasales/moontallica-theme"
+    "url": "https://github.com/rayanasales/vscode-moontallica-theme"
   },
   "bugs": {
-    "url": "https://github.com/rayanasales/moontallica-theme/issues"
+    "url": "https://github.com/rayanasales/vscode-moontallica-theme/issues"
   },
   "contributes": {
     "themes": [
