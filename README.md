@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img alt="Moontallica Theme Dark Theme Screenshot HTML Preview for Visual Studio Code" src="./assets/images/theme-preview-html.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="./assets/images/theme-preview-js.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="./assets/images/theme-preview-css.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot JSON Preview for Visual Studio Code" src="./assets/images/theme-preview-json.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot Terminal Preview for Visual Studio Code" src="./assets/images/theme-preview-terminal.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot HTML Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-html.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-js.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-css.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot JSON Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-json.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot Terminal Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-terminal.png">
 </p>
 
 ## Install
@@ -83,3 +83,5 @@ Big shoutout to the legends who created the themes used as a base:
 ## Icon
 
 Special thanks to the creator of the moon icon used in this theme: <a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Freepik - Flaticon</a>
+
+And the awesome moon icon can be found here: <a href="https://cdn-icons-png.flaticon.com/512/1183/1183776.png" title="moon icons">Moon icon - Flaticon</a>

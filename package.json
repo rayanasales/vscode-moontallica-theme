@@ -4,7 +4,7 @@
   "description": "A dark theme based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
   "publisher": "Rayana Sales",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "engines": {
     "vscode": "^1.64.0"
   },
