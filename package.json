@@ -1,10 +1,10 @@
 {
   "name": "moontallica-theme",
   "displayName": "Moontallica Theme",
-  "description": "A dark theme based on Omni Owl and 2077 themes.",
+  "description": "A dark theme based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
   "publisher": "rayanasales",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.64.0"
   },
