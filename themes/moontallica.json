@@ -140,7 +140,7 @@
         "punctuation.definition.link.restructuredtext"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -160,7 +160,7 @@
         "markup.underline.link.image"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -252,7 +252,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#8BE9FD",
+        "foreground": "#0098df",
         "fontStyle": "normal"
       }
     },
@@ -278,7 +278,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -310,7 +310,7 @@
         "comment.block.documentation entity.name.type"
       ],
       "settings": {
-        "foreground": "#8BE9FD",
+        "foreground": "#0098df",
         "fontStyle": "italic"
       }
     },
@@ -320,7 +320,7 @@
         "comment.block.documentation entity.name.type punctuation.definition.bracket"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -469,7 +469,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -579,7 +579,7 @@
         "variable.other.key.toml"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -640,7 +640,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -699,7 +699,7 @@
         "punctuation.definition.character-class.regexp"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
@@ -833,7 +833,7 @@
         "variable.fragment.graphql"
       ],
       "settings": {
-        "foreground": "#8BE9FD"
+        "foreground": "#0098df"
       }
     },
     {
