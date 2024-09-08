@@ -17,17 +17,34 @@
 
 <p align="center">
   <a href="#install">Install</a> •
-  <a href="#license">License</a> •
+  <a href="#install">Imitate Preview</a> •
+  <a href="#preferences-shown-in-the-preview">License</a> •
   <a href="#team">Team</a>  
 </p>
 
 <p align="center">
-  <img alt="Moontallica Theme Dark Theme screenshot for Visual Studio Code" src="./assets/images/theme-preview.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot HTML Preview for Visual Studio Code" src="./assets/images/theme-preview-html.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="./assets/images/theme-preview-js.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="./assets/images/theme-preview-css.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot JSON Preview for Visual Studio Code" src="./assets/images/theme-preview-json.png">
+  <img alt="Moontallica Theme Dark Theme Screenshot Terminal Preview for Visual Studio Code" src="./assets/images/theme-preview-terminal.png">
 </p>
 
 ## Install
 
 All instructions can be found at [INSTALL.md](./INSTALL.md).
+
+## Preferences shown in the preview
+
+The font in the preview image is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library).
+
+```json
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 200,
+  "terminal.integrated.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+```
 
 ## License
 
