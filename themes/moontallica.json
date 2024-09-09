@@ -1151,7 +1151,7 @@
     "gitDecoration.untrackedResourceForeground": "#0097fc",
     "gitDecoration.ignoredResourceForeground": "#1183b8",
     "gitDecoration.conflictingResourceForeground": "##ff0000",
-    "terminal.background": "#0d0936",
+    "terminal.background": "#030d22",
     "terminal.foreground": "#ffffff",
     "terminal.ansiBlack": "#747474",
     "terminal.ansiRed": "##ff0000",

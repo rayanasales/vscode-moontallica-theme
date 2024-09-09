@@ -1,10 +1,10 @@
 {
   "name": "moontallica-theme",
   "displayName": "Moontallica Theme",
-  "description": "A dark theme based on Dracula, Omni Owl and 2077 themes.",
+  "description": "A dark theme that's all about neon colors in a deep, immersive and cyberpunk vibe. Based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
   "publisher": "rayanasales",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -15,18 +15,22 @@
     "Theme",
     "Dark Theme",
     "Moontallica",
+    "Dracula",
+    "Dracula theme",
     "Italic",
     "Vivid Colors",
     "Color Scheme",
     "Cyberpunk",
     "Futuristic",
     "Neon",
+    "Neon Dreams",
     "Electric",
     "Sci-Fi",
     "High-Tech",
     "Synthwave",
     "Retrowave",
-    "Night City"
+    "Night City",
+    "Blade Runner"
   ],
   "icon": "assets/images/moon.png",
   "galleryBanner": {

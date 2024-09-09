@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>A sleek, dark theme blending the best of Omni Owl, 2077 vibes, and Dracula, with a personal twist on the colors.</strong>
+  <strong>A dark theme that's all about neon colors in a deep, immersive and cyberpunk vibe. Based on Dracula, Omni Owl and 2077 themes.</strong>
 </p>
 
 <p align="center">
@@ -24,10 +24,12 @@
 
 <p align="center">
   <img alt="Moontallica Theme Dark Theme Screenshot HTML Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-html.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-js.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-css.png">
+
   <img alt="Moontallica Theme Dark Theme Screenshot JSON Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-json.png">
-  <img alt="Moontallica Theme Dark Theme Screenshot Terminal Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-terminal.png">
+
+  <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-js.png">
+  
+  <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-css.png">
 </p>
 
 ## Install
@@ -36,7 +38,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Preferences shown in the preview
 
-The font in the preview image is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library).
+The font in the preview images are Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library).
 
 ```json
   "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
