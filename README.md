@@ -16,9 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="#-installation">Installation</a> •
-  <a href="#-imitate-preview">Imitate Preview</a> •
-  <a href="#-credits">Credits</a>  
+  <a href="#-installation">🚀 Installation</a> •
+  <a href="#-imitate-preview">👀 Imitate Preview</a> •
+  <a href="#-credits">💖 Credits</a> •
+  <a href="#-additional-resources">🎨 Additional Resources</a>  
 </p>
 
 <h2 align="center">
@@ -83,3 +84,7 @@ A huge shoutout and heartfelt thanks to the following:
   - [Neon Purple Color Palette](https://www.color-hex.com/color-palette/57066) – Just the right amount of electric glow.
 
 - The awesome moon icon can be found here: [Moon icon - Flaticon](https://www.flaticon.com/free-icon/moon_1183776)
+
+I hope you love the vibe as much as I do.
+
+Enjoy it!
