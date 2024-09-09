@@ -1132,7 +1132,7 @@
     "statusBar.debuggingBackground": "#0a0631",
     "statusBar.debuggingForeground": "#3e8efd",
     "panel.background": "#0e0952",
-    "panel.border": "#181657",
+    "panel.border": "#3e8efd",
     "panel.dropBackground": "#fb00be",
     "panelTitle.activeBorder": "#fb00be",
     "panelTitle.activeForeground": "#fb00be",

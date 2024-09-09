@@ -4,7 +4,7 @@
   "description": "A dark theme that's all about neon colors in a deep, immersive and cyberpunk vibe. Based on Dracula, Omni Owl and 2077 themes.",
   "author": "Rayana Sales <rayanaasales@gmail.com>",
   "publisher": "rayanasales",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "engines": {
     "vscode": "^1.64.0"
   },
