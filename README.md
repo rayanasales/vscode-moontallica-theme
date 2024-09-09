@@ -16,11 +16,14 @@
 </p>
 
 <p align="center">
-  <a href="#install">Install</a> •
-  <a href="#install">Imitate Preview</a> •
-  <a href="#preferences-shown-in-the-preview">License</a> •
-  <a href="#team">Team</a>  
+  <a href="#installation">🚀 Installation</a> •
+  <a href="#imitate-preview">👀 Imitate Preview</a> •
+  <a href="#credits">💖 Credits</a>  
 </p>
+
+<h2 align="center">
+  Preview Images
+</h2>
 
 <p align="center">
   <img alt="Moontallica Theme Dark Theme Screenshot HTML Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-html.png">
@@ -30,15 +33,23 @@
   <img alt="Moontallica Theme Dark Theme Screenshot JS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-js.png">
   
   <img alt="Moontallica Theme Dark Theme Screenshot CSS Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-css.png">
+
+  <img alt="Moontallica Theme Dark Theme Screenshot Terminal Preview for Visual Studio Code" src="https://raw.githubusercontent.com/rayanasales/vscode-moontallica-theme/main/assets/images/theme-preview-terminal.png">
 </p>
 
-## Install
+## 🚀 Installation
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Moontallica theme` - find the one by `rayanasales`.
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Code > Preferences > Color Theme > **Moontallica**
 
-## Preferences shown in the preview
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=rayanasales.moontallica-theme)
 
-The font in the preview images are Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library).
+## 👀 Imitate Preview
+
+The font in the preview images is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library).
 
 ```json
   "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
@@ -48,42 +59,27 @@ The font in the preview images are Dank Mono, [available here](https://philpl.gu
   "terminal.integrated.defaultProfile.linux": "zsh",
 ```
 
-## License
+## 💖 Credits
 
-Licensed under the [MIT License](./LICENSE.txt).
+A huge shoutout and heartfelt thanks to the following:
 
-## Disclaimer
+- [Endormi's](https://github.com/endormi) awesome [vscode-2077-theme](https://github.com/endormi/vscode-2077-theme)
 
-This theme draws heavy inspiration from:
+  - The stunning color base comes from this cyberpunk-inspired masterpiece. I made some tweaks here and there to adapt it to my style.
 
-- [vscode-2077-theme by Endormi](https://github.com/endormi/vscode-2077-theme)
-- [omni-owl by guilhermerodz](https://github.com/guilhermerodz/omni-owl)
-- [dracula-theme by Dracula](https://github.com/dracula/visual-studio-code)
+- [guilhermerodz's](https://github.com/guilhermerodz) incredible [omni-owl](https://github.com/guilhermerodz/omni-owl) theme
 
-## Team
+  - The italics you see? All thanks to this brilliant theme. It gave life to the [Dank Mono](https://philpl.gumroad.com/l/dank-mono?layout=profile&recommended_by=library) font, creating that perfect blend of style and readability.
 
-Maintained by:
+- [zenorocha's](https://github.com/zenorocha) legendary [dracula-theme](https://github.com/dracula/visual-studio-code)
+  - Behind the scenes, the true heroes are the meticulous tokenColors settings from this theme. I cranked up the neon by adjusting the color percentages, keeping the essence but with a fresh twist!
 
-| [![Rayana Sales](https://github.com/rayanasales.png?size=100)](https://github.com/rayanasales) |
-| ---------------------------------------------------------------------------------------------- |
-| [Rayana Sales](https://github.com/rayanasales)                                                 |
+### 🎨 Additional Resources
 
-Big shoutout to the legends who created the themes used as a base:
+- Some color overrides, using these great palettes:
 
-| [![Endormi](https://github.com/endormi.png?size=100)](https://github.com/endormi) |
-| --------------------------------------------------------------------------------- |
-| [Endormi](https://github.com/endormi)                                             |
+  - [Hot Pink Color Palette](https://www.color-hex.com/color-palette/11072) – A vibrant pink touch.
+  - [Neon light Color Palette](https://www.color-hex.com/color-palette/22324) – Bringing in some neon vibes.
+  - [Neon Purple Color Palette](https://www.color-hex.com/color-palette/57066) – Just the right amount of electric glow.
 
-| [![Guilhermerodz](https://github.com/guilhermerodz.png?size=100)](https://github.com/guilhermerodz) |
-| --------------------------------------------------------------------------------------------------- |
-| [Guilhermerodz](https://github.com/guilhermerodz)                                                   |
-
-| [![Dracula](https://github.com/dracula.png?size=100)](https://github.com/dracula) |
-| --------------------------------------------------------------------------------- |
-| [Dracula](https://github.com/dracula)                                             |
-
-## Icon
-
-Special thanks to the creator of the moon icon used in this theme: <a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Freepik - Flaticon</a>
-
-And the awesome moon icon can be found here: <a href="https://cdn-icons-png.flaticon.com/512/1183/1183776.png" title="moon icons">Moon icon - Flaticon</a>
+- The awesome moon icon can be found here: [Moon icon - Flaticon](https://www.flaticon.com/free-icon/moon_1183776)
