@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="#installation">🚀 Installation</a> •
-  <a href="#imitate-preview">👀 Imitate Preview</a> •
-  <a href="#credits">💖 Credits</a>  
+  <a href="#-installation">Installation</a> •
+  <a href="#-imitate-preview">Imitate Preview</a> •
+  <a href="#-credits">Credits</a>  
 </p>
 
 <h2 align="center">
