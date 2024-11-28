@@ -1314,6 +1314,8 @@
     "tab.inactiveBackground": "#141138",
     "tab.inactiveForeground": "#3e8efd",
     "tab.border": "#171033",
+    "tab.activeBorder": "#171033",
+    "tab.activeBorderTop": "#3e8efd",
     "sideBar.border": "#3e8efd",
     "sideBar.background": "#030d22",
     "sideBarSectionHeader.background": "#04112e",
